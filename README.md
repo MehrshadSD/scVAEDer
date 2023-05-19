@@ -4,7 +4,7 @@ Welcome to my GitHub page. Here you'll find some of the codes we used in [our pa
 
 
 Please find below some valuable resources that I came across: 
-1) If you're looking to grasp the basics of DDMS, here provides an informative overview:: [Link](https://aman.ai/primers/ai/diffusion-models/) 
+1) If you want to understand DDM fundamentals, this link offers an informative overview: [Link](https://aman.ai/primers/ai/diffusion-models/) 
 2) Keras website provides useful resources on different aspects of DDMs: [Link](https://keras.io/examples/generative/random_walks_with_stable_diffusion/)
 3) I highly recommend watching this informative tutorial from CVPR 2022 by Kreis, Gao, and Vahdat: [Link](https://www.youtube.com/watch?v=cS6JQpEY9cs)
 4) A fantastic repository containing a wide range of resources on Diffusion Models: [Link](https://github.com/heejkoo/Awesome-Diffusion-Models)
